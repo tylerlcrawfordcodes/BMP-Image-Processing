@@ -1,9 +1,4 @@
-/**
- * Tyler Crawford - PID: 5099748
- * I affirm that I wrote this program myself without any help from any
- * other people or sources from the internet.
- This program manipulates a 24-bit uncompressed bmp file, it is able to scale, rotate, horizontally flip and vertically flip an original image(example.bmp) and save result as a new image.
- */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
